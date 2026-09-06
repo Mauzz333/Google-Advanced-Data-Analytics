@@ -1,4 +1,4 @@
-# 📌 Professional Certificate: Advanced Data Analytics (Google) <img src="https://companieslogo.com/img/orig/GOOG-a1206018.png?t=1633073203" width="100" alt="Google">
+# 📌 Professional Certificate: Advanced Data Analytics <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google">
 ### 🧰**Stack:**
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -16,44 +16,46 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ### 🧭 Foundations & Data Science Workflow
-Introducción a la carrera de análisis de datos, ética y privacidad de datos, y planificación de proyectos con roles de equipo (ciclo de vida de un proyecto de datos).
-**Temas tratados:**
-- [x] Fundamentos de la Ciencia de Datos y roles del equipo.
-- [x] Ética y privacidad de datos.
-- [x] Planificación y documentación de proyectos (PACE: Plan, Analyze, Construct, Execute).
+Introduction to the data analytics career path, data ethics and privacy, and project planning with team roles (the PACE project lifecycle).
+**Topics covered:**
+- [x] Data Science fundamentals and team roles.
+- [x] Data ethics and privacy.
+- [x] Project planning and documentation (PACE: Plan, Analyze, Construct, Execute).
 
 ### 📊 Hands-On Exploratory Data Analysis (EDA)
-Recolección, limpieza y transformación de datos con Python, junto con visualización interactiva de resultados en Tableau para traducir datos en insights de negocio.
-**Temas tratados:**
-- [x] Limpieza y transformación de datos con Pandas y NumPy.
-- [x] Análisis Exploratorio de Datos (EDA).
-- [x] Visualización y storytelling de datos con Tableau.
+Data collection, cleaning, and transformation with Python, combined with interactive visualization in Tableau to translate data into business insights.
+**Topics covered:**
+- [x] Data cleaning and transformation with Pandas and NumPy.
+- [x] Exploratory Data Analysis (EDA).
+- [x] Data visualization and storytelling with Tableau.
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau">
 
 ### 📈 Hands-On Statistical Foundations
-Fundamentos de probabilidad y estadística inferencial aplicados con Python para la validación de hipótesis y la evaluación de experimentos.
-**Temas tratados:**
-- [x] Distribuciones de probabilidad y estadística descriptiva.
-- [x] Pruebas de hipótesis (Hypothesis Testing).
-- [x] Diseño y análisis de pruebas A/B.
+Probability and inferential statistics fundamentals applied with Python for hypothesis validation and experiment evaluation.
+**Topics covered:**
+- [x] Probability distributions and descriptive statistics.
+- [x] Hypothesis testing.
+- [x] A/B test design and analysis.
 
 ### 📐 Hands-On Regression Analysis
-Construcción e interpretación de modelos de regresión para explicar relaciones entre variables y evaluar su desempeño predictivo.
-**Temas tratados:**
-- [x] Regresión lineal simple y múltiple.
-- [x] Regresión logística.
-- [x] Evaluación e interpretación de modelos (métricas, supuestos y significancia).
+Building and interpreting regression models to explain relationships between variables and evaluate their predictive performance.
+**Topics covered:**
+- [x] Simple and multiple linear regression.
+- [x] Logistic regression.
+- [x] Model evaluation and interpretation (metrics, assumptions, and significance).
 
 ### 🤖 Hands-On Machine Learning
-Implementación práctica de algoritmos de aprendizaje supervisado y no supervisado, con ingeniería de características y optimización de modelos.
-**Temas tratados:**
-- [x] Aprendizaje Supervisado: árboles de decisión y random forest.
-- [x] Aprendizaje No Supervisado: segmentación y clustering.
-- [x] Ingeniería de características y optimización de hiperparámetros (tuning).
+Hands-on implementation of supervised and unsupervised learning algorithms, with feature engineering and model optimization.
+**Topics covered:**
+- [x] Supervised Learning: decision trees and random forest.
+- [x] Unsupervised Learning: segmentation and clustering.
+- [x] Feature engineering and hyperparameter tuning.
 
 ### 🚀 Projects
-Proyecto final (Capstone) que integra el flujo completo de análisis de datos: Recopilación -> Limpieza -> EDA -> Modelado -> Visualización -> Comunicación de resultados.
-**Proyectos incluidos:**
-- [ ] **Capstone: Análisis Exploratorio de Datos:** EDA completo sobre un dataset propio con limpieza, transformación y visualización de patrones clave.
-- [ ] **Capstone: Modelo Predictivo (Regresión/Clasificación):** Construcción y evaluación de un modelo de Machine Learning para resolver una pregunta de negocio.
-- [ ] **Capstone: Resumen Ejecutivo:** Comunicación de hallazgos y recomendaciones mediante un reporte/dashboard para audiencias no técnicas.
+Projects applied through real case studies, covering the full workflow: Collection -> Cleaning -> EDA -> Statistics -> Modeling -> Reporting results.
+**Projects included:**
+- [ ] **Automatidata:** Data cleaning, EDA, and regression on NYC taxi trip data for a fictional data consulting firm (spans the EDA, Statistics, and Regression courses).
+- [ ] **TikTok:** Classifying claims vs. opinions in videos using hypothesis testing, logistic regression, and Machine Learning models (Random Forest / XGBoost).
+- [ ] **Waze (Capstone):** User churn prediction using EDA, logistic regression, and ensemble models as the final portfolio project.
+
+<img src="https://img.shields.io/badge/Automatidata-2E3440?style=for-the-badge" alt="Automatidata"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"> <img src="https://img.shields.io/badge/Waze-33CCFF?style=for-the-badge&logo=waze&logoColor=white" alt="Waze">
