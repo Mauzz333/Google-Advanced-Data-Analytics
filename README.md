@@ -1,4 +1,4 @@
-# 📌 Professional Certificate: Advanced Data Analytics <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google">
+# 📌 Professional Certificate: Advanced Data Analytics <img src="https://developers.google.com/identity/images/g-logo.png" width="35" alt="Google">
 ### 🧰**Stack:**
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
